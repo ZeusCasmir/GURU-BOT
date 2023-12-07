@@ -15,7 +15,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Guru_989750c5-a434-4c2f-b6b4-4ab492d72146"
     },
     "PRIVATE": {
       "description": "Set it true if you want to make the bot private, leave Blank for public",
